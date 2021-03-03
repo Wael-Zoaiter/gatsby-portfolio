@@ -1,0 +1,150 @@
+- name: Stowk
+  url: https://stowk.com
+  status: live
+  tags:
+    - JavaScript
+    - React js
+    - SSR
+    - Node js
+    - Styled Components
+
+- name: MoveCar
+  url: https://movecar.com
+  status: live
+  tags:
+    - JavaScript
+    - React js
+    - SSR
+    - Node js
+    - Styled Components
+
+- name: MoveCar AMP
+  url: https://movecar.com/amp
+  status: live
+  tags:
+    - AMP
+    - JavaScript
+    - React js
+    - SSR
+    - Node js
+    - Styled Components
+
+- name: Forsa
+  url: http://forsa.sy
+  description:
+    ● Worked on an Agile Development Team to deliver regular updates.
+
+    ● Used Web services (RESTful) for the transmission of large blocks of JSON.
+
+    ● Developed responsive websites that could be served to desktop, tablet, and mobile users.
+
+    ● Involved designing in web pages using HTML 5, CSS3, JavaScript, Bootstrap, SASS, React.js, Redux.
+  status: live
+  tags:
+    - JavaScript
+    - React
+    - Redux
+
+- name: ITDBase
+  description: 
+    ● Develop a large application that helps scouts and coaches to monitor and evaluate football players.
+
+    ● Build a reusable Video Annotation component using Video Js and HTML5 Canvas to evaluate football players while watching the match.
+
+    ● Developed professional web applications using React js.
+  status: In Progress
+  tags:
+    - JavaScript
+    - React js
+    - Video js
+    - GraphQL
+    - Bootstrap
+    - Canvas
+    - Sass
+
+- name: Real Estate Application
+  url: https://takemehome.netlify.app/
+  status: Demo
+  tags:
+    - PWA
+    - JavaScript
+    - React js
+    - RestFul API
+    - Bootstrap
+    - Sass
+
+- name: iEducate
+  url: https://ieducate.netlify.app/
+  description:
+    ● Responsible for developing new mobile applications on Android and IOS using React Native.
+
+    ● Took initiative in learning React native and went on to successfully develop various features
+  status: live
+  tags:
+    - React Native
+    - React JS
+  icon: website
+
+- name: Css Library
+  url: https://webinjaz.herokuapp.com/
+  description: Build css library for Web Injaz Co to ease and automate the development of web applications
+  status: live
+  tags:
+    - HTML5/CSS3
+    - Sass
+    - Webpack
+  icon: website
+
+- name: Ghurra
+  url: https://ghurra-server.herokuapp.com/graphql
+  description: Build GraphQL server for barbers managment application
+  status: live
+  tags:
+    - Node js
+    - GraphQL
+    - Prisma
+    - Postgresql
+    - Apollo Server
+    - Express js
+  icon: website
+
+- name: Syrian League
+  url: https://syrian-league.herokuapp.com/
+  description: Build GraphQL server for clubs and matchs platform
+  status: live
+  tags:
+    - Node js
+    - GraphQL
+    - Prisma
+    - Postgresql
+    - Apollo Server
+  icon: website
+
+- name: iEducate Server
+  url: https://ieducate-api.herokuapp.com/explorer/
+  description: Build Restful API server for institutions managment system
+  status: live
+  tags:
+    - Node js
+    - Loopback
+    - Express js
+    - MongoDB
+  icon: website
+
+- name: Simple Chat App
+  url: https://chat-w-app.herokuapp.com/
+  description: Build simple chat application using Node js and Socket IO
+  status: live
+  tags:
+    - Node js
+    - Socket io
+  icon: website
+
+- name: Simple Task Manager
+  url: https://task-manager-nest.herokuapp.com/explore/
+  description: Build simple Restful endpoints using Node js and Nest js
+  status: live
+  tags:
+    - Node js
+    - Nest js
+  icon: website

@@ -1,0 +1,27 @@
+- profile:
+  initials: WZ
+  name: Wael Zoaiter
+  email: wael.zoaiter@gmail.com
+  profession: Full Stack Engineer
+  image: images/profile.jpg
+  location: Damascus, Syria
+  relocation: true
+  company: Stowk
+  for_hire: true
+  focus: Software Engineering
+  focus_url: 'mailto:wael.zoaiter@gmail.com'
+  about: |
+    Full Stack Engineer with 4+ years of experience designing and building responsive web and mobile applications. Proficient in JavaScript, with extensive knowledge of web performance, SEO, web accessibility, CI/CD, testing, web animation, data visualization, user experience, and interface design.
+  skills:
+    - React JS
+    - Node JS
+    - React Native
+  tools:
+    - Gatsby
+    - Figma
+    - Webpack
+  budget:
+    currency: $
+    min: 10
+    max: 30
+    default: 10
